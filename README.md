@@ -1,0 +1,1 @@
+This application is designed to demonstrate that Play/Ebean getter/setter enhancement is not working on Play 2.1-RC1.
